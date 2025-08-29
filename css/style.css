@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ :root{
+  background-image: linear-gradient(to right, rgb(2, 0, 0), rgb(104, 0, 0));
+}
+.aboutMe{
+    color: #E0E0E0;
+}
+
